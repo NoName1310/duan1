@@ -1,7 +1,7 @@
 h1 {
   color: blue;
   text-align: center;
-  text-decoration-line: overline;
+  text-decoration-line: underline;
 }
 h2 {
   color: green;
