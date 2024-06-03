@@ -1,16 +1,21 @@
 h1 {
   color: blue;
   text-align: center;
+  -webkit-text-decoration-line: underline;
   text-decoration-line: underline;
+  /* Chống copy trên web */
+  user-select: none;
 }
 h2 {
   color: green;
   font-family: "Times New Roman", Times, serif;
   text-align: center;
+  user-select: none;
 }
 body {
   background-color: aquamarine;
 }
 p {
-  text-align: center;
+  text-align: justify;
+  user-select: none;
 }
