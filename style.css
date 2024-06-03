@@ -1,0 +1,13 @@
+h1 {
+  color: blue;
+  text-align: center;
+  text-decoration-line: overline;
+}
+h2 {
+  color: green;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+body {
+  background-color: aquamarine;
+}
