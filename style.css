@@ -27,3 +27,9 @@ h2:active {
   color: yellowgreen;
   font-size: 50px;
 }
+a:link {
+  color: black;
+}
+a:visited {
+  color: blueviolet;
+}
