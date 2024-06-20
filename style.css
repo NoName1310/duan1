@@ -13,10 +13,11 @@ h2 {
   user-select: none;
 }
 body {
-  background-color: aquamarine;
+  background-color: #ddd;
+  margin: 0 auto;
 }
 p {
-  text-align: justify;
+  text-align: 1.2px;
   user-select: none;
 }
 h1:hover {
